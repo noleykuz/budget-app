@@ -1,0 +1,24 @@
+.tee{
+    display: flex;
+    justify-content: end;
+    width: 382px;
+}
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-top: 30px;
+}
+body{
+    margin: auto;
+    padding: 20px 15px;
+}
+#ppp{
+    text-transform: uppercase;
+    text-align: center;
+    box-shadow: 0px 0px 0px 5px;
+    border: 10px 10px;
+
+}
+#ppp:hover{
+    cursor: pointer;
+}
